@@ -18,6 +18,7 @@
   ```
 - `Str_Loan_ML.ipynb` is the notebook file of the Data pre-processing & Machine Learning.
 - `Loan_Data` contains the Dataset of this project.
+- It also has the loan type i.e Home loan, Car loan, Personal loan. The model predicts the loan according to it.
 
 
 
